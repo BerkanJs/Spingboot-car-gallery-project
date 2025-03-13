@@ -72,14 +72,20 @@ Car Gallery Project is a backend application built with Spring Boot, designed to
 ### 🚀 **How to Run**
 
 1. Clone the repository:
-   ```bash
+   ```powershell
    git clone https://github.com/yourusername/car-gallery-project.git
 
-```powershell
-cd car-gallery-project
 
-```powershell
-mvn spring-boot:run
+   cd car-gallery-project
+
+
+   mvn spring-boot:run
+
+
+
+
+
+
 
 
 
