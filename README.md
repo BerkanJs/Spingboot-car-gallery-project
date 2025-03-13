@@ -18,16 +18,27 @@ Car Gallery Project is a backend application built with Spring Boot, designed to
 ### 📂 **Project Structure**
 
 ├── config               # Application configuration files
+
 ├── controller           # REST API controllers
+
 ├── dto                  # Data Transfer Objects
+
 ├── enums                # Enum types
+
 ├── exception            # Custom exception handling
+
 ├── handler              # Global exception handlers
+
 ├── jwt                  # JWT token management
+
 ├── model                # JPA entities
+
 ├── repository           # Database access layer
+
 ├── service              # Business logic layer
+
 ├── starter              # Application starter
+
 ├── utils                # Utility classes (Date formatting, etc.)
 
 
@@ -63,5 +74,12 @@ Car Gallery Project is a backend application built with Spring Boot, designed to
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/car-gallery-project.git
+
+```powershell
+cd car-gallery-project
+
+```powershell
+mvn spring-boot:run
+
 
 
